@@ -1,4 +1,4 @@
-var baixou = false;
+var baixou = true;
 var img = document.createElement("img");
 
 
